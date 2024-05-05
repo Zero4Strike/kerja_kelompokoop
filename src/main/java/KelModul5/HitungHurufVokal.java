@@ -1,4 +1,4 @@
-package hitunghurufvokal;
+package KelModul5;
 
 import java.util.Scanner;
 
