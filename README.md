@@ -2,7 +2,7 @@ Repository ini digunakan untuk menyelesaikan dan mengumpulkan tugas Mata Kuliah 
 
 List Anggota Pada repository ini:
 
-Hasan Saeful Rohman
+Hasan Saeful Rohman (owner repository)
 
 M. Naufal Ash-shiddiq
 
