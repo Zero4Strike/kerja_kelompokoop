@@ -1,5 +1,5 @@
 
-package main;
+package KelModul5;
 
 import java.util.Scanner;
 
